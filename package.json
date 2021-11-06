@@ -1,6 +1,6 @@
 {
-  "name": "mx-block",
-  "version": "1.0.7",
+  "name": "mx-block-layout",
+  "version": "1.0.0",
   "description": "Starter template to build WordPress blocks.",
   "main": "index.js",
   "scripts": {
