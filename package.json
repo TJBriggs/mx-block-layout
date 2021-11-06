@@ -1,0 +1,9 @@
+{
+  "name": "mx-block",
+  "version": "1.0.7",
+  "description": "Starter template to build WordPress blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
